@@ -1,5 +1,5 @@
 name: WhiteshadoW
 markdown: redcarpet
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/skjo0c.github.io" # the subpath of your site, e.g. /blog
 url: "http://skjo0c.github.io" # the base hostname & protocol for your site
