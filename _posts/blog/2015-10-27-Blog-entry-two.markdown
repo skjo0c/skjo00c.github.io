@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A month in Techrise"
-date:   2015-10-27 18:11:16
+date:   2016-09-01 18:11:16
 categories: blog
 ---
 <!--Blog posts-->
