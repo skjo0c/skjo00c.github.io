@@ -15,7 +15,7 @@ So, how am I feeling right now after taken as an intern? It's not much of differ
 
 After joining Techrise as an intern, I have learned better things that were left on the regular courses. I had to work hard and still working hard everyday. <strong> I have come hundred steps forward than when I joined but still thousand steps behind where I have to be. </strong> I still play games, still watch one whole anime per night and have college to attend. Life has been tough these 2 months around, but what's fun is that I have some goal to meet up. The second to primary things I used to do : playing games, watching animes; they have come to the secondary things. It would be great if I get to stop them completly, but again, one small step at a time right?
 
-<div class="w3-content w3-section" style="max-width:500px min-width: 100%">
+<div class="w3-content w3-section" style="max-width:500px">
   <img class="Photos" src="/assets/img/intern/3.jpg" style="height: 500px; width:150%">
   <img class="Photos" src="/assets/img/intern/2.jpg" style="height: 500px; width:150%">
   <img class="Photos" src="/assets/img/intern/4.jpg" style="height: 500px; width:150%">
