@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A month in Techrise as an Intern"
-date:   2016-09-20 20:41:16
+date:   2016-10-20 20:41:16
 categories: blog
 ---
 <!--Blog posts-->
